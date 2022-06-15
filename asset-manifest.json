@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shmatie/static/css/main.073c9b0a.css",
+    "main.css": "/shmatie/static/css/main.d45d557d.css",
     "main.js": "/shmatie/static/js/main.c714879a.js",
     "static/js/787.fa602b3f.chunk.js": "/shmatie/static/js/787.fa602b3f.chunk.js",
     "static/media/logo.svg": "/shmatie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/shmatie/index.html",
-    "main.073c9b0a.css.map": "/shmatie/static/css/main.073c9b0a.css.map",
+    "main.d45d557d.css.map": "/shmatie/static/css/main.d45d557d.css.map",
     "main.c714879a.js.map": "/shmatie/static/js/main.c714879a.js.map",
     "787.fa602b3f.chunk.js.map": "/shmatie/static/js/787.fa602b3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.d45d557d.css",
     "static/js/main.c714879a.js"
   ]
 }
