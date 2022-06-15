@@ -1,0 +1,15 @@
+.row, .col {
+    border: 2px solid black;
+ };
+ 
+ .futuretime {
+    background-color: rgb(129, 202, 236);
+ };
+ 
+ .timenow {
+    background-color: rgb(106, 248, 153);
+ };
+ 
+ .pasttime {
+    background-color: rgb(167, 167, 167);
+ };
